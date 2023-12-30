@@ -552,3 +552,12 @@ html {
 }
 
 /* intro style end  */
+
+.parent,
+.hoji {
+  background-color: red;
+}
+.lor {
+  background-color: green;
+  font-size: 40px;
+}
